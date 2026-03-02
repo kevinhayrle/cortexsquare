@@ -1,6 +1,6 @@
 # cortex² — Digital Engineering Studio
 
-Official website for Cortex Square (cortex²) | Digital Engineering Studio specializing in scalable web development, product engineering, system architecture, and premium UI/UX systems.
+Official website for Cortex Square (cortex²) | Digital Engineering Studio specializing in Product Engineering, System Architecture, Web Engineering, UI/UX Systems, Digital Growth Strategy, and Product Strategy & Consulting
 
 ---
 
