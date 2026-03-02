@@ -1,4 +1,4 @@
-# 🧠 cortex² — Digital Engineering Studio
+# cortex² — Digital Engineering Studio
 
 Official website for Cortex Square (cortex²) | Digital Engineering Studio specializing in scalable web development, product engineering, system architecture, and premium UI/UX systems.
 
