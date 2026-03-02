@@ -39,9 +39,6 @@ The website includes:
 - HTML5
 - CSS3
 - Vanilla JavaScript
-- Google Fonts (Inter)
-- Schema.org Structured Data
-- Open Graph & Twitter Card SEO
 
 No frameworks used. Fully custom built.
 
